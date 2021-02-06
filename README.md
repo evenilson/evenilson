@@ -6,9 +6,7 @@
 
 
 
-<div style="display: flex; align-items: center; justify-content: space-between">
 
-<div>
 <h3> 👨🏻💻 About Me </h3>
 
 
@@ -22,14 +20,17 @@
 - ✍️ &nbsp; Pursuing Graphic Design as a hobby / parallel activities.
 
 
-</div>
+<div style="display: flex; align-items: center; justify-content: space-between">
+
 
 <div>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evenilson&langs_count=10&theme=tokyonight&layout=compact" alt="evenilson :: Top Langs" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=evenilson&show_icons=true&theme=synthwave" alt="Evenilson :: Profile Stats" /></p>
 </div>
-</div>
+
+
+<div>
 
 
 
