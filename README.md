@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Evenilson Liandro</h2>
+### Hi there 👋 I'm Evenilson Liandro 
 
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evenilsonlp@gmail.com)
@@ -21,14 +21,11 @@
 - ✍️ &nbsp; Pursuing Graphic Design as a hobby / parallel activities.
 
 
-<div style="display: flex; align-items: center; justify-content: space-between">
-
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evenilson&langs_count=10&theme=tokyonight&layout=compact" alt="evenilson :: Top Langs" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=evenilson&show_icons=true&theme=synthwave" alt="Evenilson :: Profile Stats" /></p>
-</div>
 
-##### Languages and Tools 🛠
+#### Languages and Tools 🛠
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
