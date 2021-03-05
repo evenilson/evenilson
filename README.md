@@ -4,12 +4,9 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evenilsonlp@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evenilsonliandro/)
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=evenilson&repo=evenilson&countColorcountColor&countColor=%237B1E7B"/>
+---
 
-
-<h3> 👨🏻💻 About Me </h3> 
-
-
+## 👨🏻💻 About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing solutions to increase the user experience. I'm a web developer.
 
@@ -20,12 +17,19 @@
 
 - ✍️ &nbsp; Pursuing Graphic Design as a hobby / parallel activities.
 
+---
+## 📈 Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evenilson&langs_count=10&theme=tokyonight&layout=compact" alt="evenilson :: Top Langs" /></p>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=evenilson&repo=evenilson&countColorcountColor&countColor=%237B1E7B"/>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=evenilson&show_icons=true&theme=synthwave" alt="Evenilson :: Profile Stats" /></p>
 
-#### Languages and Tools 🛠
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evenilson&langs_count=10&theme=tokyonight&layout=compact" alt="evenilson :: Top Langs" /></p>
+
+
+---
+
+## Languages and Tools 🛠
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
