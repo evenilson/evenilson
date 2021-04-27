@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Evenilson Liandro 
+## Hi Dev 👋 I'm Evenilson Liandro 
 
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evenilsonlp@gmail.com)
@@ -6,7 +6,7 @@
 
 ---
 
-## 👨🏻💻 About Me
+### 👨🏻💻 About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing solutions to increase the user experience. I'm a web developer.
 
@@ -17,8 +17,9 @@
 
 - ✍️ &nbsp; Pursuing Graphic Design as a hobby / parallel activities.
 
+
 ---
-## 📈 Stats
+### 📈 Stats
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=evenilson&repo=evenilson&countColorcountColor&countColor=%237B1E7B"/>
 
@@ -47,7 +48,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+
 
 
 
