@@ -19,7 +19,7 @@
 
 ### 🎓 Education
 
-- 🎓 **Bachelor's Degree** in Information Systems – UFC, Quixadá (2018–2022)  
+- 🎓 **Bachelor's Degree** in Information Systems – UFC (2018–2022)  
 - 🧑‍🔧 **Technical Degree** in Computer Networks – EEEP José Vidal Alves (2015–2017)
 
 ---
