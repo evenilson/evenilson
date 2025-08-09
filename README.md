@@ -24,13 +24,6 @@
 
 ---
 
-<!-- ### 🚀 Featured Projects
-
-- 🔤 **[use-typewriter](https://github.com/evenilson/use-typewriter)** – Custom React hook for animated typing effects.
-- 🧭 **[react-intersection-scrollspy](https://github.com/evenilson/react-intersection-scrollspy)** – Hook-based scrollspy using IntersectionObserver.
-
----
-
 ### 🛠️ Skills & Technologies
 
 **Languages & Frameworks**  
