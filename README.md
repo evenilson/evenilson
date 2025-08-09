@@ -28,8 +28,6 @@
 
 - 🔤 **[use-typewriter](https://github.com/evenilson/use-typewriter)** – Custom React hook for animated typing effects.
 - 🧭 **[react-intersection-scrollspy](https://github.com/evenilson/react-intersection-scrollspy)** – Hook-based scrollspy using IntersectionObserver.
-- 📱 **[project_imc_flutter](https://github.com/evenilson/project_imc_flutter)** – BMI calculator app using Flutter/Dart.
-- 🌳 **[arvore-binaria](https://github.com/evenilson/arvore-binaria)** – Binary tree algorithm written in Python. -->
 
 ---
 
